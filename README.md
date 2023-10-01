@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/ezraasiedu"><img src="https://api.daily.dev/devcards/645b9717ed534101a410360f4bbadee1.png?r=pzn" width="400" alt="Ezra Asiedu's Dev Card"/></a>
+
 <!--
 **Kwasi633/Kwasi633** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
